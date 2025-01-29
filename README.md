@@ -1,7 +1,9 @@
 # 🎵📱 The "TikTokification" of Spotify
 
-**Note**: Summative submitted under LSE DS105 Data for Data Science  
+Summative submitted under LSE DS105 Data for Data Science  
 **Score: 95/100**
+
+**!! NOTE: Data was collected before Spotify's [change in data policy](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api) on 2024-11-27. Hence, the `Audio Feature` endpoint can no longer be retrieved.**
 
 **AUTHOR:** Vienna (So Hoi Ling)
 
