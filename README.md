@@ -1,8 +1,11 @@
 # 🎵📱 The "TikTokification" of Spotify
 
+**Note**: Summative submitted under LSE DS105 Data for Data Science  
+**Score: 95/100**
+
 **AUTHOR:** Vienna (So Hoi Ling)
 
-**CANDIDATE NUMBER:** 50646
+
 
 <p align="center"> 
     <img src="https://routenote.com/blog/wp-content/uploads/2020/03/Spotify-x-TikTok.jpg" alt="Project Illustration" width="50%"> 
